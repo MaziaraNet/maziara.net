@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Why Choose Us
 landing-title: 'Welcome'
 description: null
 image: null
@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+With over 20 years of experience in the IT consulting industry, our team has the expertise and knowledge to help businesses and individuals succeed in today's digital landscape.
