@@ -1,8 +1,8 @@
 # site settings
 title: Maziara.Net
-subtitle: Automation Experts Group
+subtitle: Automation Advocate
 email: info@maziara.net
-description: Transforming your digital life and your business with cutting-edge technology.
+description: Transforming your digital life and your business flow with cutting-edge technology.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
