@@ -1,5 +1,5 @@
 # site settings
-title: Maziar.Net
+title: Maziara.Net
 subtitle: Automation Experts Group
 email: info@maziara.net
 description: Transforming your digital life and your business with cutting-edge technology.
@@ -22,14 +22,15 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
+  Envelope: mailto:info@maziara.net
   GitHub: https://github.com/maziara
-  GitLab:
-  # Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
   LinkedIn: https://www.linkedin.com/in/maziara
+  # GitLab:
+  # Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  # Instagram:
   # Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  # Facebook:
+  # Slack:
 
 # build settings
 markdown: kramdown
