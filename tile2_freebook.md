@@ -36,6 +36,9 @@ nav-menu: true
         <label for="message">Project/Topic</label>
         <textarea name="message" id="message" rows="6"></textarea>
       </div>
+      <div>
+      We will respond to your email to confirm the exact time to meet.
+      </div>
       <ul class="actions">
         <li><input type="submit" value="Request Booking" class="special" /></li>
         <li><input type="reset" value="Clear" /></li>
