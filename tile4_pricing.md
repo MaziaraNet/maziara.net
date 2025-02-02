@@ -31,18 +31,16 @@ show_tile: true
 			<tr>
 				<td>Single Ongoing Task</td>
 				<td>One active task, 48 hour turnaround.</td>
-				<td>$1,999/Month</td>
+				<td>$1,999/Month**</td>
 			</tr>
 			<tr>
 				<td>Multi Ongoing Tasks</td>
 				<td>Up to 3 active task, 48 hour turnaround.</td>
-				<td>$2,999/Month</td>
+				<td>$2,999/Month**</td>
 			</tr>
 		</tbody>
-		<tfoot>
-			<tr>
-				<td>* Minimum 2 hours required.</td>
-			</tr>
-		</tfoot>
 	</table>
 </div>
+
+*Minimum 2 hours required. <br>
+**All subscriptions are recurring monthly and can be cancelled at anytime.
