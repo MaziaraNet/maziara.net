@@ -18,23 +18,23 @@ nav-menu: true
     <form action="https://formspree.io/f/mqaebpog" method="POST">
       <div class="field half first">
         <label for="name">Name</label>
-        <input type="text" name="name" id="name" />
+        <input type="text" name="name" id="name"  required/>
       </div>
       <div class="field half">
         <label for="email">Email</label>
-        <input type="text" name="_replyto" id="email" />
+        <input type="text" name="_replyto" id="email"  required/>
       </div>
       <div class="field half first">
         <label for="prefday">Preferred Day(s)</label>
-        <input type="text" name="prefday" id="prefday" />
+        <input type="text" name="prefday" id="prefday"  required/>
       </div>
       <div class="field half">
         <label for="preftime">Preferred Time(s) (EST)</label>
-        <input type="text" name="preftime" id="preftime" />
+        <input type="text" name="preftime" id="preftime"  required/>
       </div>
       <div class="field">
         <label for="message">Project/Topic</label>
-        <textarea name="message" id="message" rows="6"></textarea>
+        <textarea name="message" id="message" rows="6" required></textarea>
       </div>
       <div>
       We will respond to your email to confirm the exact time to meet.
