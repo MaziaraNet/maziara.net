@@ -29,18 +29,18 @@ show_tile: true
 				<td>$299/Day</td>
 			</tr>
 			<tr>
-				<td>Single Ongoing Task</td>
-				<td>One active task, 48 hour turnaround.</td>
+				<td>Single Ongoing Support/Maintenance Task</td>
+				<td>One active project, up to 72 hours turnaround.</td>
 				<td>$1,999/Month**</td>
 			</tr>
 			<tr>
-				<td>Multi Ongoing Tasks</td>
-				<td>Up to 3 active task, 48 hour turnaround.</td>
+				<td>Multi Ongoing Support/Maintenance Tasks</td>
+				<td>Up to 3 active Projects, up to 72 hours turnaround.</td>
 				<td>$2,999/Month**</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-*Minimum 2 hours required. <br>
-**All subscriptions are recurring monthly and can be cancelled at anytime.
+*The _Training/Consulting_ package requires a minimum 2 hours booking. <br>
+**All _Ongoing Support/Maintenance_ packages are recurring monthly and can be cancelled at anytime.
