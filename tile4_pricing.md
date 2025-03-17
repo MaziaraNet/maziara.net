@@ -44,3 +44,5 @@ show_tile: true
 
 *The _Training/Consulting_ package requires a minimum 2 hours booking. <br>
 **All _Ongoing Support/Maintenance_ packages are recurring monthly and can be cancelled at anytime.
+
+{% include contact-button.html %}

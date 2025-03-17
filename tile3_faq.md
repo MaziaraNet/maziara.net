@@ -126,6 +126,4 @@ show_image: true
 
 </dl>
 
-<ul class="actions">
-		<li><a href="booking" class="button next">Free Consultation</a></li>
-</ul>
+{% include contact-button.html %}

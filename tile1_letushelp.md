@@ -41,6 +41,4 @@ nav-menu: true
 Let’s **Build Smarter IT & Automation Solutions** Together!
 Whether you're a business looking to optimize infrastructure or an individual in need of automation tools, I can help. Contact me today to discuss how we can **turn your IT challenges into streamlined, efficient solutions**! 
 
-<ul class="actions">
-    <li><a href="booking" class="button next">Free Consultation</a></li>
-</ul>
+{% include contact-button.html %}
