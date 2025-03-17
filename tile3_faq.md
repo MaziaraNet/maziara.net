@@ -70,7 +70,7 @@ show_image: true
 
 	<dt>7. Can you create custom software or scripts for my specific needs?</dt>
 	<dd>
-		Absolutely! Whether you need custom automation scripts, workflow optimization tools, or API integrations, I can develop tailored solutions that match your exact requirements.
+		<p>Absolutely! Whether you need custom automation scripts, workflow optimization tools, or API integrations, I can develop tailored solutions that match your exact requirements.</p>
 	</dd>
 
 	<dt>8. What tools and technologies do you use?</dt>
@@ -125,3 +125,7 @@ show_image: true
 	</dd>
 
 </dl>
+
+<ul class="actions">
+		<li><a href="booking" class="button next">Free Consultation</a></li>
+</ul>

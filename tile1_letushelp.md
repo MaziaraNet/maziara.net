@@ -17,9 +17,9 @@ nav-menu: true
 - **Process Automation for IT & Business Workflows** – Reduce manual work with custom scripts and AI-driven automation to streamline operations and cut costs.
 
 ### Example Projects for Businesses:
-- Optimized SaaS deployment for a startup, reducing cloud costs by 30% and improving uptime.
-- Implemented CI/CD pipelines for a tech company, cutting release cycles from weeks to hours.
-- Automated IT infrastructure for an enterprise, reducing manual server setup time by 90%.
+- Optimize SaaS deployment for a startup, reducing cloud costs and improving uptime.
+- Implement CI/CD pipelines for a tech company, cutting release cycles from weeks to hours.
+- Automate IT infrastructure for an enterprise, reducing manual server setup time to minutes.
 
 ---
 
@@ -38,5 +38,9 @@ nav-menu: true
 
 ---
 
-Let’s Build Smarter IT & Automation Solutions Together!
-Whether you're a business looking to optimize infrastructure or an individual in need of automation tools, I can help. Contact me today to discuss how we can turn your IT challenges into streamlined, efficient solutions! 
+Let’s **Build Smarter IT & Automation Solutions** Together!
+Whether you're a business looking to optimize infrastructure or an individual in need of automation tools, I can help. Contact me today to discuss how we can **turn your IT challenges into streamlined, efficient solutions**! 
+
+<ul class="actions">
+    <li><a href="booking" class="button next">Free Consultation</a></li>
+</ul>
